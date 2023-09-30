@@ -105,8 +105,8 @@ export default {
             quantity: 0
         },
         {
-            photo: 'https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXMmctCZ3NX1t3MYSK6N-z6Nl0LXASkx6kHek_uUdGHatjHlkmXMnPdN6H7hGtOlD9_BdzB9VHupijgvvzF_z32aerLkhrhoc4HO7ixNH9JKE-WpP78y6DJQ&usqp=CAE',
-            name: 'TV 8K OLED',
+            photo: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tiktok.com%2F%40steve_bombadoofc%2Fvideo%2F7277595859552931077&psig=AOvVaw3xLbgIaSy9jqH3gt8XSDGy&ust=1696190430081000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjM8O6P04EDFQAAAAAdAAAAABAc',
+            name: 'FAMILIA DE SMURFS',
             value: 'R$62,000',
             real_value: 62000,
             quantity: 0
